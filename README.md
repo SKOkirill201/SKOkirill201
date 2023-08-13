@@ -14,4 +14,3 @@ Telegram: t.me/SKOLDY201</p>
 <h2 align='center'>Моя статистика</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKOkirill201&theme=dark" width="48%" align='right'>
 <img src="https://github-readme-stats.vercel.app/api?username=SKOkirill201&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="github stats" width="45%" align="left"/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SKOkirill201&layout=compact'>
