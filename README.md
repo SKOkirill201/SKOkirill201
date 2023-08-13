@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**SKOkirill201/SKOkirill201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>Привет! Добро пожаловать на мой профиль! 👋</h1>
+<h2 align='center'>Про меня</h2>
+<p align='center'>Я SKOkirill201. Создаю ботов для мессенджера Telegram на Python (библиотеки: aiogram и telebot (pyTelegramBotAPI)) <br>
+Aiogram я начал изучать только недавно, не судите строго мой код на нём.</p>
+<h2 align='center'>Мои боты</h2>
+<p align='center'>FrogBot (https://t.me/frog2bot <br>
+FightBot (https://github.com/SKSV-Telegram-Bots-Studio/FightBot) <br>
+Сейчас только 2 бота, ведь я разрабатываю для них крупные обновления</p>
+<h2 align='center'>Про моего главного бота</h2>
+<p align='center'>FrogBot - Мой бот созданный для мессенджера Telegram. В нём можно взять себе лягушку, и используя команды, следить за ней, как за питомцем. Последняя релизная версия написана на Telebot, но новая уже будет на Aiogram. <br> Бот: https://t.me/frog2bot <br> Его Telegram канал: https://t.me/frog2botnews</p>
