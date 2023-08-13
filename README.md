@@ -3,7 +3,7 @@
 <p align='center'>Я SKOkirill201. Создаю ботов для мессенджера Telegram на Python (библиотеки: aiogram и telebot (pyTelegramBotAPI)) <br>
 Aiogram я начал изучать только недавно, не судите строго мой код на нём.</p>
 <h2 align='center'>Мои боты</h2>
-<p align='center'>FrogBot (https://t.me/frog2bot <br>
+<p align='center'>FrogBot (https://t.me/frog2bot) <br>
 FightBot (https://github.com/SKSV-Telegram-Bots-Studio/FightBot) <br>
 Сейчас только 2 бота, ведь я разрабатываю для них крупные обновления</p>
 <h2 align='center'>Про моего главного бота</h2>
