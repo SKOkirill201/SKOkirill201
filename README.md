@@ -4,7 +4,7 @@
 <h2 align='center'>My bots</h2>
 <p align='center'>FrogBot (https://t.me/frog2bot) <br>
 FightBot (https://github.com/SKSV-Telegram-Bots-Studio/FightBot) <br>
-Now only 2 bots, cuz i coding big update for them</p>
+Now only 2 bots, cuz i coding big updates for them</p>
 <h2 align='center'>My mail and Telegram</h2>
 <p align='center'>Mail: SKOkirill201@yandex.ru <br>
 Telegram: t.me/SKOLDY201</p>
