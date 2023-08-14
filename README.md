@@ -4,9 +4,7 @@
 <h2 align='center'>My bots</h2>
 <p align='center'>FrogBot (https://t.me/frog2bot) <br>
 FightBot (https://github.com/SKSV-Telegram-Bots-Studio/FightBot) <br>
-Now only 2 bots, cuz i coding big update for themt</p>
-<h2 align='center'>Про моего главного бота</h2>
-<p align='center'>FrogBot - Мой бот созданный для мессенджера Telegram. В нём можно взять себе лягушку, и используя команды, следить за ней, как за питомцем. Последняя релизная версия написана на Telebot, но новая уже будет на Aiogram. <br> Бот: https://t.me/frog2bot <br> Его Telegram канал: https://t.me/frog2botnews</p>
+Now only 2 bots, cuz i coding big update for them</p>
 <h2 align='center'>My mail and Telegram</h2>
 <p align='center'>Mail: SKOkirill201@yandex.ru <br>
 Telegram: t.me/SKOLDY201</p>
