@@ -1,6 +1,6 @@
 <h1 align='center'>Hi! Welcome to the my profile! 👋 </h1>
 <h2 align='center'>About me</h2>
-<p align='center'>I am SKOkirill201. Creating Telegram bots using Python.</p>
+<p align='center'>I am SKOkirill201. Making Telegram bots using Python.</p>
 <h2 align='center'>My bots</h2>
 <p align='center'>FrogBot (https://t.me/frog2bot) <br>
 FightBot (https://github.com/SKSV-Telegram-Bots-Studio/FightBot) <br>
